@@ -1,0 +1,3 @@
+D:\UnrealEngine\Projects\GeometrySandbox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandbox\Definitions.GeometrySandbox.h
+D:\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

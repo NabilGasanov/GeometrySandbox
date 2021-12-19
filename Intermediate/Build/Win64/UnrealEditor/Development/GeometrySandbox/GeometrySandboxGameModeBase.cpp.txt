@@ -1,0 +1,7 @@
+D:\UnrealEngine\Projects\GeometrySandbox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandbox\Definitions.GeometrySandbox.h
+D:\UnrealEngine\Projects\GeometrySandbox\Source\GeometrySandbox\GeometrySandboxGameModeBase.h
+D:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+D:\UnrealEngine\Projects\GeometrySandbox\Intermediate\Build\Win64\UnrealEditor\Inc\GeometrySandbox\GeometrySandboxGameModeBase.generated.h
